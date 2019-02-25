@@ -22,7 +22,7 @@ pod 'VOService'
 
 ## Author
 
-heguangzhong2009@gmail.com, heguangzhong@nosppp.com
+heguangzhong2009@gmail.com
 
 ## License
 
